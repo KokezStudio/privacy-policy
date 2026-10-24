@@ -14,13 +14,6 @@ Cookies and tracking technologies
 The Application or its third-party SDKs may use cookies, SDKs, pixels, and similar technologies to support functionality, analytics, or service delivery. Where required by applicable law, the Service Provider will obtain consent before using non-essential tracking technologies.
 
 
-Location Information
-The Application collects your device's location to provide location-based features, improve the Application, and support related services.
-
-Geolocation Services: The Service Provider may use location data to provide location-based features or content.
-Analytics and Improvements: Aggregated location data may help the Service Provider understand usage patterns and improve performance.
-Third-Party Services: Location data may be shared with third-party services used to support Application functionality, subject to this privacy policy and applicable law.
-
 Your Rights
 You may request access to, correction of, or deletion of your personal data held by the Service Provider. To exercise these rights, or to withdraw consent where processing is based on consent, contact the Service Provider at kokezstudio@gmail.com.
 
@@ -88,10 +81,11 @@ Upon verification of your identity, the Service Provider will delete your person
 
 
 Children
-The Application is not intended for children under 16 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
+The Application is designed for a general audience. The Service Provider does not knowingly collect personally identifiable information from children under the age of 13 without verifiable parental consent. 
 
+For users under 16 years of age (or the applicable age in your jurisdiction), the Application automatically disables personalized advertising to protect user privacy. 
 
-Where parental or guardian consent is required under applicable law, the Application is not intended for use without that consent. The Service Provider does not knowingly collect personally identifiable information from children under 16 years of age in violation of applicable law. In the event the Service Provider discovers that a child has provided personal information, the Service Provider will immediately delete this from their servers. If you are a parent or guardian and you are aware that your child has provided the Service Provider with personal information, please contact the Service Provider (kokezstudio@gmail.com) so that they will be able to take the necessary actions.
+If you are a parent or legal guardian and discover that your child has provided personal information without appropriate consent, please contact the Service Provider at kokezstudio@gmail.com. Upon notification, the Service Provider will take immediate steps to remove such information and delete the associated data from its servers.
 
 
 Security
@@ -109,7 +103,7 @@ The Service Provider may update this Privacy Policy from time to time. The Servi
 Previous versions of this Privacy Policy will be maintained and made available upon request by contacting the Service Provider at kokezstudio@gmail.com.
 
 
-This privacy policy is effective as of 2026-10-16
+This privacy policy is effective as of 2026-10-24
 
 
 Your Consent
